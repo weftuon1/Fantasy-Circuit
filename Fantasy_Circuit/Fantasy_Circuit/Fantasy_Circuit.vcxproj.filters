@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="app.ico">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Symbol_Ground.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Symbol_Resistor.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Symbol_Voltage.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Symbol_Capacitor.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Symbol_Inductor.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Capacitor\C_0_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Capacitor\C_0_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Capacitor\C_1_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Capacitor\C_1_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Ground\G_0_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Ground\G_0_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Ground\G_1_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Ground\G_1_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Inductor\I_0_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Inductor\I_0_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Inductor\I_1_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Inductor\I_1_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Resistor\R_0_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Resistor\R_0_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Resistor\R_1_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Resistor\R_1_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_0_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_0_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_1_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_1_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_2_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_2_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_3_N.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Voltage\V_3_Y.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Pencil.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Pen\Mouse.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Img_Pen\Pencil.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\simulation_icon.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Simulation_Icon_80.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\simulation_icon_60.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Clear_Icon_80.png">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="..\Resources\Clear_Icon_60.png">
+      <Filter>資源檔</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Fantasy_Circuit.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="InitComponent.cpp">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcNode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulation.cpp">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AscFile.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Spice.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Schematic.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="EleComponent.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PanelDoublebuffered.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="InitComponent.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CalcNode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Simulation.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AscFile.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InitComponent.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

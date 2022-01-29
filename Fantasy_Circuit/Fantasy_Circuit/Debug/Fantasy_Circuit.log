@@ -1,0 +1,40 @@
+﻿已經開始建置於 2017/1/15 下午 11:41:15。
+     1>節點 2 (build 目標) 上的專案 "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Fantasy_Circuit\Fantasy_Circuit.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\Fantasy_Circuit.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\Fantasy_Circuit.exe" /INCREMENTAL /NOLOGO blas_win32_MTd.lib lapack_win32_MTd.lib /ASSEMBLYRESOURCE:Debug\Fantasy_Circuit.Form1.resources /ASSEMBLYRESOURCE:Debug\Fantasy_Circuit.InitComponent.resources /ASSEMBLYRESOURCE:Debug\Fantasy_Circuit.Simulation.resources /MANIFEST /ManifestFile:"Debug\Fantasy_Circuit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\Fantasy_Circuit.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AscFile.obj
+         Debug\AssemblyInfo.obj
+         Debug\CalcNode.obj
+         Debug\Fantasy_Circuit.obj
+         Debug\InitComponent.obj
+         Debug\Simulation.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            正在建立程式庫 D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\Fantasy_Circuit.lib 和物件 D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\Fantasy_Circuit.exp
+         Fantasy_Circuit.vcxproj -> D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\Fantasy_Circuit.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\Fantasy_Circuit.exe;#1" /manifest Debug\Fantasy_Circuit.exe.intermediate.manifest
+       PostBuildEvent:
+         XCOPY "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\"\lib\*.DLL "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Debug\" /D /K /Y
+         :VCEnd
+         已複製 0 個檔案
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\Fantasy_Circuit.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\Fantasy_Circuit.lastbuildstate"。
+     1>專案 "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Fantasy_Circuit\Fantasy_Circuit.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.35

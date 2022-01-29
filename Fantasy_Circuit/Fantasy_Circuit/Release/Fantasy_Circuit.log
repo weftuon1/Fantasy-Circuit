@@ -1,0 +1,29 @@
+﻿已經開始建置於 2017/1/18 下午 12:12:18。
+     1>節點 2 (build 目標) 上的專案 "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Fantasy_Circuit\Fantasy_Circuit.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\Fantasy_Circuit.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         Fantasy_Circuit.vcxproj -> D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Release\Fantasy_Circuit.exe
+       PostBuildEvent:
+         XCOPY "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\"\lib\*.DLL "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Release\" /D /K /Y
+         :VCEnd
+         已複製 0 個檔案
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\Fantasy_Circuit.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\Fantasy_Circuit.lastbuildstate"。
+     1>專案 "D:\Data\交大作業\大二_第一學期\進階物件導向程式設計 AOOP\期末專題\Fantasy_Circuit\Fantasy_Circuit\Fantasy_Circuit.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.20
